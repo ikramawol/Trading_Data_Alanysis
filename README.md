@@ -50,10 +50,9 @@ This project combines technical analysis and machine learning to identify tradin
 - Binary classification
 - Model evaluation with classification metrics
 
-# License
-This project is licensed for educational and research use only.
-
 **Install dependencies**:
    ```bash
    pip install pandas numpy yfinance matplotlib scikit-learn
    ```
+
+   
